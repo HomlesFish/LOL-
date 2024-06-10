@@ -1,0 +1,349 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5516ed2304679bc40b1986c224cef561, type: 3}
+  m_Name: HeroDataList
+  m_EditorClassIdentifier: 
+  HeroDats:
+  - Image: {fileID: 21300000, guid: 8a2804fe73e04c14db01296bf5c0b0b5, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 94cb78f0e4318aa418ce4c2813f4e5af, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 908b0d44a38785c49bcd725475910c42, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 67e346990c2cce840a48846aedc77de8, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: b0c72c48b48d0b64b8658a0e3772dd70, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 1338965712e4e5b44980ff6c32d7db37, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 674a066b356f7e94084c112691ffdc24, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 415be1fde8e4c0446b2e835cbd0d25ae, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 4ef9ab73674f0b547a57f5406f52ee5f, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 7b931c015767f6e49896f93addefe38e, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: ea76b6ab6c1b3de47a94777814e9c2f1, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 35896cf05b4dc194fa78ab78114e7356, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 53aa2b9022b5def47a67b44dd97558b3, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: f0391b71ba9a3e842bd09c90b53230b1, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: abb19a9d59844a54bb04c67310e67438, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 075f8513e37ad4f4a9b4d5621d593144, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 2a275e954550fed4e99ad9b3a51b7085, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 8a21265506e930447852e373f3b41370, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 49520d9bb9cea114fb1d1dbbfa1b27f7, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: eba1e1a794fef654198970a47f705465, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 374a10e0a081e4941a9a63a14bd25254, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: d24441d2a632c9e49b728189c3093821, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: c4523b096221b5f4b9040b9e2935647f, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 94a4b23aba90fe447847d88ecc4fd59e, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: ddcbe8ed6eecb024c8eb292c435cc7a8, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 03be8984cddc6484a9587cdb996048f0, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 4dff307397d8db94d84c5668a1710a6b, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 77d02a7ceb8b7b8449a269b61168f99a, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 77c88bbf41d5fbd4db3ca121fcc69d83, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 80d00577e07ff1b41bbb797e05c77117, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 9331a55c259e1f94e96dde26511ed7da, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 22b00109dc28a5e4eb3b7a36fd7c12a5, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 4c54b740b3c79d14d800794bede29b9f, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: dfa51d9ecfdd89a4292ae83ee5b6a72d, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 580212187390f77449b01de3aa4e50f6, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 6ab7559345b6b9e4485595783c5a0ce3, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 9c77534b98579d74a825a06710b35207, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 5383486cdc80cf3479345790e97a6d60, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 13ce4774200b2de409943cc6b300a966, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 0db1546fb627d1f4d81937f389ff6e86, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 924399138d5b9924c9b610bd8659cff5, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: a3f314ce32dfde74d95254622ea986bc, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: ef9320acdd34a8442b7a7ac764a0b271, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 45417190f70c8da4594996ccd4288363, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: d288994f4129da446a9560d7dc6ec254, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 504e3255edea43240a0b44baeab26205, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 2bceda7b4c693774baef61a798620350, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 2e2a3d605e595e84cb5fc581fc62fe1e, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: dc335a6f8d4eacb46b420a0cb9b4015d, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 7799b64e24c67004f9153e8aa75b48cd, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 5353cd73520f3004091da2d73e661c5c, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: dfddb03226afd4c4b82f539f7b8725bc, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: a224a3350b421a64d94692eb6e036461, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: b8bcd8fdde791d649a54cb97304dc9ef, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 7987819ae64805b4d9ee4ff78ff3a226, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: a5a08b409ee2c374880b7b84f568f148, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: cb708ea0e6285c64d8c17098d5cea073, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: df1024090cf4a074c9b53f153c799dea, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 26a506e5a263936409c3106db75705fa, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: b4ec98c0a1b8b7a4bb1f962f1ddf00a9, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 8e7331ed949c6504583f7994b18378ff, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 29ad147af1738344c95a16f0677d62bb, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 103473e3a3e71dd4e85864c539a6f238, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: bde379d4f873b8743b10513f4d34d89b, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 3730ea85160148c4fb240b61b5e64b39, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: da2b1ed7c59cf4e439c7a76a9fbb6d5e, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: af277d3552d23274ea445e74e05ec2ad, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 9d6004b86665707429145f006d860ea6, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 1cec36d36aa760b4d8102f7c358ae780, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: ff57cd120b91b8d4a806729f4372d98d, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: a7fc59bd520fe5f4598b1e1b626c988a, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 2fc7d9c8f0758ed4ca50c7a00718cdb0, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 875498dad864092408280c36ddbdc4a2, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: f2ffbbb5ff68f6c448834dc966f1ed5c, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: e190267f6a8ff5b4eb1cb039f1cddbc3, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: ab6d34c3a46f9a64d809ae6ac5e3ff11, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 2f8fc236cb037e848b2a3296c17bd61e, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 4aa3d5672b611ba4e9539b5909a31343, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 8c11ef277ae4b1340a08e19e99d9b461, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: feae86f5ad17fbe48ae8c70308869d67, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: ea566a1080527bd4fb3f24f2b8c810fd, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 01e59dee93b72534dae6419939368ab9, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 4200a5fff1c131e4e94e94631c67df7c, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 2bb1aa4d8996b40418889bcc20563f31, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: ce886d9a78d6a4a4ead8508bab3f3ba5, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 87e403e9b9b3bf544af223b7de1c277d, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: be7935e2950763f4caf72680d6d673df, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 5aacfd6b8a55f1a41abf1e9845d342b1, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 15cddd0cbb6b75148b97a14fb14cf626, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: edeee68cb0d771d448fb11582803fa49, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 3b560b5c9b87efd4c8c6e2a8723e5114, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 9e0ceea054a19c94cbb32a37d1138248, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 36f9dd1e669b57441b90c3a11c5a7a3b, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 9b09d106777370240a7288d967c9a02d, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: e364f9b6ac4c83649b8b39eaad6b541f, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: fcae99ba1dca8ad46b8b47a96b3aba01, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: c957b593f73bf8644b6536cee2a40ac9, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 89e1f30aaf616b64fafb066d05992b38, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 1f192d26455d7b349ac2cc5e5002d81e, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: b0c507a63fba35a4cb75d9a7c01e6921, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 29de6518cef15c448ad970c63e098953, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 963c1c9482b96724dad4e1529e48e279, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: aa04c1db133552244b4ef408a55eb5b4, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 7322c828f31c7b245bac8d90aca32026, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: f6d53107440758841aa20ca68a47b3a6, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 6fd3c89414020fd4ba088c82cdd9ffb5, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: a6aac56bd0711c849abb800c1102e5eb, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 1493c0d237756cb4190ce59b5d54291c, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 86fd17f5a06784c4a8c6966e410cadcf, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: cd4ef23e8aca0ea45af1416c7fb83039, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 56311e1d4a1b1284c9f4968ad8584468, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 6c9ac1bf2d0d19644aaaacf0954f5483, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: accb0aaad50a74d498e807cb3250e3db, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 5aae42cb1edccf24ea35fe36a23e172c, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: e49d6444043e26c489d7edc47d2393d7, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: e6a1acd218b5d894197b939180d6ea2c, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 3e477292166847e4caf4445e215ac304, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 3560dfbd566c616439145a36af313b8c, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: fafb71a95c7981f438e15d969ff0e35d, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 8493c0dbca8760c49b3a52c6c4b0c72e, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: d786aa0812b9c7d4d813150dd3543e38, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 387a0cbfef1cb7e4ca4ff29c51cc2e20, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 52641bd6a36a51a45b8cf24d4c3e693f, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 3c048c35259d2fa46b23838daa969c77, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 64c2d422fb5e9ad448dff53f8af94d06, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 51a43767b0f6f3148a0d6263cedf1ff1, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 73cd721dc4992be4dacbf402c83ba112, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: c3034e973efb34546a5594a2245eb7ce, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 9c546844eb44ab64099296e62255fe59, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 90c7c0e0dfc88ab45bde28302a20ca71, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 071ef62ab4333c24da33abfd0203d3e9, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: bb8108c4fff40774b8f9bd54fbbede30, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: f2ab3af98f168844897dfd2a2b89b656, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 89e736579b3275d4dbb585628bc24128, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: df30a2b060353dc4ca903e0dabcfbfcd, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 5d5868d528988cb408123ae4da127d44, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 6c2e2ad356a74e4439e1d8b6c8ebf987, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 4a463bbe667a73149a3e4391f738600a, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 35f2d8f2a364ef24fb8445963906fc7e, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 824c18435066bc046bb640bae199559e, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 889012c6c60f9954ab619e6557aea31e, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: e25263b55e57cca449b05d5eb0d90af4, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: c939b8cc75db51b48adbe8bdd9f59fa2, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 811afb511ab2e1643861caf9acafb825, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 66b7768eb13f19e42b873caf66251a78, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 8fdb59a36457a7c4796cc4c2495803ca, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 79100ce971fe97448a83f8560d92b214, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 238ab068be4c5df439bb89f7086ddda4, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 4e08d6b1fd9e6f64bab9ed077449f50f, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 55e164696bc9ce54ba773797fadb4eec, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: bd6de62b501714740871fd4a031a171a, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: e1b8156ca13e8bd428e80c70debdc0d5, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: c6e832392851b3c40abfeba1a58f66f3, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: f0dff7b3dbd547146adfbbbf77755dae, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: ec0927be8bd25f543922367661408acd, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 288028bd0a977fc4791473d5822b553d, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 8cc8b236bad83224699169259086fcc6, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: c33473295a594404ca139906298321db, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 3a8afe558b708ae4a8c51ec1a8df7fd9, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: d9292804332592b4e905f946ef6af07d, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 1be05c55c6e64554db4c2eb4692cf100, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 60ef09141c0987449b28a4e1a389ab22, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 1c302611c77d62043a641ef788f4d66d, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: efdc9420b80090746af275ca05fc2ab0, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 3be4add9060f51749bad0d9a1b94adba, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 95e0cc827e6269c47a3ae30d956c7488, type: 3}
+    MeleeHero: 0
+  - Image: {fileID: 21300000, guid: 0f7f5cf8ad094a64798ff9ba53df7d34, type: 3}
+    MeleeHero: 0
